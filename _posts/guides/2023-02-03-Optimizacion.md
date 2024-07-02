@@ -158,7 +158,7 @@ en fin
   - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm){:target="\_blank"} (Simple y completo)
   - [mpv](https://mpv.io/){:target="\_blank"} (Potente y personalizable)
 - Editor de Imagenes (Why Not?)
-  - [Paint.NET](http://paint.net/){:target="\_blank"} (El paint con esteroides, literalmente....)
+  - [Paint.NET](https://www.getpaint.net/){:target="\_blank"} (El paint con esteroides, literalmente....)
 - Visualizador de Imagenes
   - [ImageGlass](https://imageglass.org/){:target="\_blank"} (Potente y Bonito)
   - [JPEGView](https://sourceforge.net/projects/jpegview/files/jpegview/1.0.37/){:target="\_blank"} (Ligero, un poco complicado de configurar)

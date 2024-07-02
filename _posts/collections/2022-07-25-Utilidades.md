@@ -99,7 +99,7 @@ tags: [software, herramientas] # TAG names should always be lowercase
 
 #### Herramientas
 
-- [Paint.NET](http://paint.net/){:target="\_blank"}
+- [Paint.NET](https://www.getpaint.net/){:target="\_blank"}
 - [PNGyu](https://nukesaq88.github.io/Pngyu/){:target="\_blank"}
 - [RiOT](https://riot-optimizer.com/){:target="\_blank"}
 
