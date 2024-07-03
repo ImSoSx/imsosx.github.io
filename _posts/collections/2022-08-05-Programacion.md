@@ -8,6 +8,7 @@ tags: [software, programacion, herramientas] # TAG names should always be lowerc
 ## Controlador de Versiones
 
 - [Git](https://git-scm.com/){:target="\_blank"}
+- [Gitkraken](https://www.gitkraken.com/){:target="\_blank"}
 - [Github Desktop](https://desktop.github.com/){:target="\_blank"}
 - [FluentHub](https://github.com/FluentHub/FluentHub){:target="\_blank"}
 - [Sublime Merge](https://www.sublimemerge.com/){:target="\_blank"}
@@ -35,17 +36,24 @@ tags: [software, programacion, herramientas] # TAG names should always be lowerc
 
 - [Android Studio](https://developer.android.com/studio){:target="\_blank"}
 - [Visual Studio 2022](https://visualstudio.microsoft.com/es/vs/community/){:target="\_blank"}
-- [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/){:target="\_blank"}
-- [PhpStorm](https://www.jetbrains.com/es-es/phpstorm/){:target="\_blank"}
-- [PyCharm](https://www.jetbrains.com/es-es/pycharm/){:target="\_blank"}
-- [WebStorm](https://www.jetbrains.com/es-es/webstorm/){:target="\_blank"}
+
+### Jetbrains
+
+| Nombre                                                                    | Detalle                                                |
+|---------------------------------------------------------------------------|--------------------------------------------------------|
+| [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/){:target="\_blank"} | IDE orientado a desarrollo JAVA                        |
+| [Rider](https://www.jetbrains.com/es-es/rider/){:target="\_blank"}        | IDE orientado a desarrollo de C, C++ y C#              |
+| [PhpStorm](https://www.jetbrains.com/es-es/phpstorm/){:target="\_blank"}  | IDE orientado a desarrollo con PHP                     |
+| [PyCharm](https://www.jetbrains.com/es-es/pycharm/){:target="\_blank"}    | IDE orientado a desarrollo con Python                  |
+| [WebStorm](https://www.jetbrains.com/es-es/webstorm/){:target="\_blank"}  | IDE orientado a desarrollo web Javascript y Typescript |
 
 ## Utilidades
 
 - [BootstrapMade](https://bootstrapmade.com/){:target="\_blank"}
 - [Colorz](https://colors.muz.li/){:target="\_blank"}
 - [Css Gradient](https://cssgradient.io/){:target="\_blank"}
-- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg){:target="\blank"}
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg){:
+  target="\blank"}
 
 ## Herramientas
 
